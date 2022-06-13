@@ -1,0 +1,11 @@
+.img{
+    border-radius: 50%;
+    width: 600px;
+}
+.logodiv{
+    margin: 5%;
+    padding-top: 5%;
+    text-align: center;
+    width:400px;
+    background-color: transparent;
+}

@@ -1,0 +1,74 @@
+nav{
+    /*Hace referencia al tag nav*/
+    position: fixed;
+    width: 100%;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    min-height: 8vh;
+    color: black;
+    font-family: 'Poppins', sans-serif;
+    z-index: 100;
+    background: linear-gradient(178deg, #008aff 10%, #ffffff 60%);
+  }
+
+  .logo{
+    text-transform: uppercase;
+    letter-spacing: 5px;
+    font-size: 20px;
+    font-weight: bold;
+    font-size: x-large;
+  }
+
+  .nav-links{
+    display: flex;
+    width: 40%;
+    justify-content: space-around;
+    list-style: none;
+  }
+ 
+  .nav-links li a{
+  /* Animacion subrayado */
+  background-image: linear-gradient(currentColor, currentColor);
+  background-position: 0% 100%;
+  background-repeat: no-repeat;
+  background-size: 0% 2px;
+  transition: background-size .3s;
+  font-size: large;
+  }
+  
+  .nav-links li a:hover, .nav-links li a:focus {
+    background-size: 100% 2px;
+  }
+  
+  .nav-links a{
+    text-decoration: none;
+    letter-spacing: 3px;
+    font-weight: bold;
+    font-size: 14px;
+  }
+
+  #españa{
+    width: 35px;
+    margin-bottom: 12%;
+    border: 1px solid rgb(190, 190, 190);
+  }
+
+  #galicia{
+     width: 40px;
+     margin-bottom: 14%;
+     border: 1px solid rgb(190, 190, 190);
+  }
+
+  #galicia:hover{
+    width: 50px;
+  }
+
+  #españa:hover{
+    width: 50px;
+  }
+
+  .text-primary {
+    --tw-text-opacity: 1;
+    color: rgb(14 211 207/var(--tw-text-opacity));
+}

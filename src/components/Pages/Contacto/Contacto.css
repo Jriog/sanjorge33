@@ -1,0 +1,67 @@
+.backnav{
+    background-color: black;
+    height: 75px;
+}
+
+.contacto{
+    height: 1200px;
+}
+.map{
+    margin: 5%;
+}
+
+.map iframe{
+    border: 2px solid grey;
+    border-radius: 10px;
+}
+
+form div * {
+    margin:1%;
+    padding: 1%;
+}
+form button {
+    margin:3%;
+}
+
+.contactinfo{
+    height: 200px;
+}
+
+.contactinfo h1{
+    margin-top: 2%;
+    text-align: center;
+    font-size: x-large;
+    font-weight: 600;
+    font-style: italic;
+    
+}
+
+.contactinfo p{
+    text-align: justify;
+    margin-left: 15%;
+}
+
+.mapframe{
+    margin-left: 15%;
+}
+
+button{
+    background-color: black;
+}
+
+.mailform{
+    margin-top: 5%;
+    margin-right: 10%;
+    background-color: whitesmoke;
+    border-radius: 15px;
+    height: 850px;
+}
+
+.mailform h1{
+    margin-top: 2%;
+    text-align: center;
+    font-size: x-large;
+    font-weight: 600;
+    font-style: italic;
+    
+}

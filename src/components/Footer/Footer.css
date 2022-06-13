@@ -1,0 +1,14 @@
+  .footer{
+    position: relative;
+    top: 100%;
+  }
+  .referencia{
+    text-align: center;
+  }
+
+  .nav-links{
+    display: flex;
+    width: 40%;
+    justify-content: space-around;
+    list-style: none;
+  }

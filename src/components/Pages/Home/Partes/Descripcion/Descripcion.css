@@ -1,0 +1,11 @@
+.img_home{
+    border-radius: 15px;
+    margin-left: 10%;
+    width: 1000px;
+    height: 400px;
+}
+
+.titulo_home{
+    font-size: x-large;
+    font-weight: bold;
+}

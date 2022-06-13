@@ -1,0 +1,21 @@
+#aboutUs{
+
+}
+
+.description{
+
+    text-align: justify;
+    font-size: large;
+}
+
+.titulo{
+    font-size: xx-large;
+    font-weight: bold;
+    font-style: normal;
+}
+
+.foto_desription{
+    margin-left:0% ;
+    width: 100%;
+    border-radius: 15px;
+}

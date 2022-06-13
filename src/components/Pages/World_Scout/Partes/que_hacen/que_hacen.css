@@ -1,0 +1,11 @@
+#Q_H{
+    height: 800px;
+    font-size: large;
+    padding-bottom: 5%;
+}
+
+.QH{
+    height: 300px;
+    width: 600px;
+    border-radius: 30px;
+}
